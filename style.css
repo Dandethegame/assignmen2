@@ -3,6 +3,7 @@ body {
   background-color: #010611;
   color: azure;
   font-size: 110%;
+  display: inline-block;
 }
 .center {
   display: block;
